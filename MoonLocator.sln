@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MoonLocator", "MoonLocator\MoonLocator.fsproj", "{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonLocator", "MoonLocator\MoonLocator.csproj", "{422703DC-A3C5-481D-9185-999361FF82F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,17 +11,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CE84BE1E-DE6A-4F49-881D-0DAA1D0AFD24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422703DC-A3C5-481D-9185-999361FF82F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {423F20F4-20D7-4814-B55F-E2F7D39CE47D}
+		SolutionGuid = {DCF76602-E57C-411B-859C-8FE6DD0A5F92}
 	EndGlobalSection
 EndGlobal
